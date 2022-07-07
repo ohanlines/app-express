@@ -5,7 +5,21 @@
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
-    <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
+    <p>Benar = <%= counterBenar %></p> 
+    <p>Salah = <%= counterSalah %></p> 
+    <p>Sekip = <%= counterSekip %></p> 
+    <p><%= soal.text_soal %></p>
+    <div >
+      <form method="POST" action="/increase-counter">
+        <% soal.options.forEach(e => { %>
+          <input type="radio" name="soal" value="<%= e %>">
+          <%= e %>
+          </input>
+          <br>
+        <% })%>
+        <br>
+        <input type="submit" name="submit">
+      </form>
+    </div>
   </body>
 </html>
