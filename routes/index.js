@@ -10,10 +10,10 @@ router.get("/", function (req, res, next) {
   if (hour >= 0 && hour <= 11) {
     cond = "Pagi";
   }
-  else if (hour >= 12 && hour <= 3) {
+  else if (hour >= 12 && hour <= 15) {
     cond = "Siang";
   }
-  else if (hour >= 4 && hour <= 6) {
+  else if (hour >= 16 && hour <= 18) {
     cond = "Sore";
   }
   else {
