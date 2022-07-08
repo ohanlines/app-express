@@ -1,25 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><%= title %></title>
+    <title>ohanquiz</title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
-    <p>Benar = <%= counterBenar %></p> 
-    <p>Salah = <%= counterSalah %></p> 
-    <p>Sekip = <%= counterSekip %></p> 
-    <p><%= soal.text_soal %></p>
-    <div >
-      <form method="POST" action="/increase-counter">
-        <% soal.options.forEach(e => { %>
-          <input type="radio" name="soal" value="<%= e %>">
-          <%= e %>
-          </input>
-          <br>
-        <% })%>
-        <br>
-        <input type="submit" name="submit">
-      </form>
-    </div>
+    <h2>Selamat <%= cond %> Dunia!</h2>
+    <p>Pilih model soal:</p>
+    <button type="submit">
+      <a class="btn btn-dark btn-sm" href="/onesoal" >satu soal till drop</a>
+    </button>
   </body>
 </html>
