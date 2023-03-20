@@ -1,0 +1,3158 @@
+[ {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Marisa meminjam gorden.<br>\n  <br>\n  Kata dasar <i>meminjam</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>meminjam</i>", 0 ], [ false, "<i>dipinjam</i> ", 1 ], [ true, "<i>pinjam</i> ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5abda74e15b8cb892b1bd2771b"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Mikasa menaruh stapler.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Mikasa menaruhkan stapler.", 0 ], [ false, "Mikasa ditaruhkan stapler. ", 1 ], [ true, "Stapler ditaruh Mikasa. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a71c64d668b165afb2748bc6e"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Cucu meminjam handuk.<br>\n  <br>\n  Kata dasar <i>meminjam</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>dipinjam</i> ", 0 ], [ false, "<i>meminjam</i>", 1 ], [ true, "<i>pinjam</i> ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a459b4c2f8c20a109ef2764af"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Hadi menjual pita.<br>\n  <br>\n  Siapa yang menjual pita?\n</p>\n\n",
+    "options" : [ [ true, "Hadi. ", 0 ], [ false, "Tidak dapat diketahui. ", 1 ], [ false, "Seseorang selain Hadi.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a4767488cbce69974243cf539"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Maia memegang tato.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Ketika diubah ke bentuk pasif, <i>memegang</i> diubah menjadi <i>dipegang</i>. ", 0 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Tato dipegang Maia</i>.", 1 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a8ee548cfb5bc356641abb81d"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Isti membuang ponsel.<br>\n  <br>\n  Kata dasar <i>membuang</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>dibuang</i> ", 0 ], [ true, "<i>buang</i> ", 1 ], [ false, "<i>membuang</i>", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a8dc245958d7f1b6607fd6c42"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Celsi menyentuh sabun.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Celsi disentuhkan sabun. ", 0 ], [ false, "Celsi menyentuhkan sabun.", 1 ], [ true, "Sabun disentuh Celsi. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a37ee49eea6d6ee9366f79704"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Subrata memandang map.<br>\n  <br>\n  Kata dasar <i>memandang</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>memandang</i>", 0 ], [ false, "<i>dipandang</i> ", 1 ], [ true, "<i>pandang</i> ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a0f5f4f07af0b70d9afa9eb19"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Rico melempar kerupuk.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>melempar</i> diubah menjadi <i>dilempar</i>. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Kerupuk dilempar Rico</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a67944a69a4d64659d4a21679"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Sansa membakar kalender.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Sansa dibakarkan kalender. ", 0 ], [ true, "Kalender dibakar Sansa. ", 1 ], [ false, "Sansa membakarkan kalender.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5af11d4225be40168d256a6cd0"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Yayan membakar mikrofon.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Mikrofon dibakar Yayan. ", 0 ], [ false, "Yayan dibakarkan mikrofon. ", 1 ], [ false, "Yayan membakarkan mikrofon.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a660d4bcba690ef7e0cfdd5e5"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Reki mengambil kertas.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Reki diambilkan kertas. ", 0 ], [ true, "Kertas diambil Reki. ", 1 ], [ false, "Reki mengambilkan kertas.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a133d4becb07a10943616ae52"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Mira melihat garuda.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Garuda dilihat Mira. ", 0 ], [ false, "Mira melihatkan garuda.", 1 ], [ false, "Mira dilihatkan garuda. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a4150457c9e85fd4694da0347"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Gondes membuang kemeja.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "seseorang dibuang-kan kemeja oleh Gondes.", 0 ], [ true, "kemeja dibuang oleh Gondes. ", 1 ], [ false, "Gondes membuang-kan kemeja untuk seseorang. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5af62440669982c981ca08dddf"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Yura mengambil gelang.<br>\n  <br>\n  Kata dasar <i>mengambil</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>mengambil</i>", 0 ], [ true, "<i>ambil</i> ", 1 ], [ false, "<i>diambil</i> ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a25b641c88e7a49bbf1b5a5db"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Yasmin mengambil rambut.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Rambut diambil Yasmin</i>.", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>mengambil</i> diubah menjadi <i>diambil</i>. ", 1 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a298048178134b9e6a142971b"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Sanchai merusak baut.<br>\n  <br>\n  Siapa yang merusak baut?\n</p>\n\n",
+    "options" : [ [ true, "Sanchai. ", 0 ], [ false, "Tidak dapat diketahui. ", 1 ], [ false, "Seseorang selain Sanchai.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ae2fe4d1f87e538f57b57d0ee"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Grisia melempar anyaman.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Grisia dilemparkan anyaman</i>. ", 0 ], [ false, "<i>Grisia melemparkan anyaman</i>.", 1 ], [ true, "<i>Anyaman dilempar Grisia</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a46744193b974a8315abc11b5"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Mufasa membakar dispenser.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Dispenser dibakar Mufasa</i>.", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>membakar</i> diubah menjadi <i>dibakar</i>. ", 1 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a2bcd4270a0407fd98d399ecb"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Jaenab melihat kompor.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Ketika diubah ke bentuk pasif, <i>melihat</i> diubah menjadi <i>dilihat</i>. ", 0 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Kompor dilihat Jaenab</i>.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Lebih jelasnya cek video-video konsep kita aja yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a7cbe4b588f18f6dd819ee823"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Vero membeli perangko.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Perangko dibeli Vero. ", 0 ], [ false, "Vero dibelikan perangko. ", 1 ], [ false, "Vero membelikan perangko.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a90444d3fb9e3a21e52b620e5"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Daus membawa kompor.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "kompor dibawa Daus. ", 0 ], [ false, "Daus membawa-kan kompor untuk seseorang. ", 1 ], [ false, "Daus melakukan kegiatan tersebut untuk orang lain.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a90ff4993bec3ff3f48eabbe9"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Astuti membakar penghapus.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Penghapus dibakar Astuti</i>. ", 0 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a57ae4c55840ca8296e4ff1e0"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Maspel menjual bantal.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Maspel menjualkan bantal</i>.", 0 ], [ false, "<i>Maspel dijualkan bantal</i>. ", 1 ], [ true, "<i>Bantal dijual Maspel</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab6874faf84ba7f0b34380665"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Mira meminjam papan.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Mira meminjamkan papan.", 0 ], [ false, "Mira dipinjamkan papan. ", 1 ], [ true, "Papan dipinjam Mira. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kuncinya: kuasain konsep. Gimana caranya? Coba cek video-video konsep kita yak :)\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aeb5e45eeb53748694328f7c2"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Patrick menaruh masker.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Masker ditaruh Patrick</i>. ", 0 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a8ebd4bd5bf98f0b5f655fff8"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Audi membawa taplak.<br>\n  <br>\n  Siapa yang membawa taplak?\n</p>\n\n",
+    "options" : [ [ true, "Audi. ", 0 ], [ false, "Seseorang selain Audi.", 1 ], [ false, "Tidak dapat diketahui. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aefbc4cfeb7fd5d09935e2a0c"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Beth membakar kendi.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>membakar</i> diubah menjadi <i>dibakar</i>. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Kendi dibakar Beth</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a143a4a8a800d545f69075c21"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Justin memegang besi.<br>\n  <br>\n  Siapa yang memegang besi?\n</p>\n\n",
+    "options" : [ [ true, "Justin. ", 0 ], [ false, "Seseorang selain Justin.", 1 ], [ false, "Tidak dapat diketahui. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ae4a74ee4ab5fa60e76b1df80"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Syaela meminjam tato.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Ketika diubah ke bentuk pasif, <i>meminjam</i> diubah menjadi <i>dipinjam</i>. ", 0 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Tato dipinjam Syaela</i>.", 1 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ac1424f4d977d69df23cf3a0c"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Anjas melihat bantal.<br>\n  <br>\n  Siapa yang melihat bantal?\n</p>\n\n",
+    "options" : [ [ true, "Anjas. ", 0 ], [ false, "Seseorang selain Anjas.", 1 ], [ false, "Tidak dapat diketahui. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a9e854b0ea096e72ec107039d"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Tonay membuang televisi.<br>\n  <br>\n  Siapa yang membuang televisi?\n</p>\n\n",
+    "options" : [ [ false, "Seseorang selain Tonay.", 0 ], [ false, "Tidak dapat diketahui. ", 1 ], [ true, "Tonay. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a5c2d4b1cb54b010a7ff79b1d"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Tukimin memegang penggorengan.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "seseorang dipegang-kan penggorengan oleh Tukimin. ", 0 ], [ false, "Tukimin melakukan kegiatan tersebut untuk orang lain.", 1 ], [ true, "penggorengan dipegang Tukimin. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a256d4b8eb37ad2d6a5622dab"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Chrysan menyentuh toples.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Toples disentuh Chrysan. ", 0 ], [ false, "Chrysan menyentuhkan toples.", 1 ], [ false, "Chrysan disentuhkan toples. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kuncinya: kuasain konsep. Gimana caranya? Coba cek video-video konsep kita yak :)\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a5b8e4707b45d112dedeeb8db"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Somat meminjam faksimile.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Somat dipinjamkan faksimile. ", 0 ], [ true, "Faksimile dipinjam Somat. ", 1 ], [ false, "Somat meminjamkan faksimile.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kuncinya: kuasain konsep. Gimana caranya? Coba cek video-video konsep kita yak :)\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a87e0410e91143523e49e1516"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Nasar memegang markah jalan.<br>\n  <br>\n  Kata dasar <i>memegang</i> adalah?\n</p>\n\n",
+    "options" : [ [ true, "<i>pegang</i> ", 0 ], [ false, "<i>dipegang</i> ", 1 ], [ false, "<i>memegang</i>", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a80294d6890a20c8c6ac88026"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Chintya merusak mangkok.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Mangkok dirusak Chintya</i>.", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>merusak</i> diubah menjadi <i>dirusak</i>. ", 1 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a03824474a4e53cebbbb9027d"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Asti melihat ponsel.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Asti dilihatkan ponsel. ", 0 ], [ true, "Ponsel dilihat Asti. ", 1 ], [ false, "Asti melihatkan ponsel.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a978344e29066e60dbdc98d01"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Jordan membakar yoyo.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Jordan dibakarkan yoyo. ", 0 ], [ false, "Jordan membakarkan yoyo.", 1 ], [ true, "Yoyo dibakar Jordan. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aa25f4e25857b684365f5dc02"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Tasya melempar seruling.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Tasya dilemparkan seruling. ", 0 ], [ true, "Seruling dilempar Tasya. ", 1 ], [ false, "Tasya melemparkan seruling.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab8064c05b66b5c37281465e5"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Moana melihat gunting.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Moana dilihatkan gunting. ", 0 ], [ false, "Moana melihatkan gunting.", 1 ], [ true, "Gunting dilihat Moana. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab7d84923bde8f1673a53d33c"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Atun menaruh keran kebakaran.<br>\n  <br>\n  Kata dasar <i>menaruh</i> adalah?\n</p>\n\n",
+    "options" : [ [ true, "<i>taruh</i> ", 0 ], [ false, "<i>ditaruh</i> ", 1 ], [ false, "<i>menaruh</i>", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aeed4403cb8b86be275f03e9b"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Valak memandang tisu.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Valak dipandangkan tisu</i>. ", 0 ], [ false, "<i>Valak memandangkan tisu</i>.", 1 ], [ true, "<i>Tisu dipandang Valak</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab9444b309692e05d356f4cc6"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Sunaye menjual meja.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Sunaye dijualkan meja. ", 0 ], [ true, "Meja dijual Sunaye. ", 1 ], [ false, "Sunaye menjualkan meja.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a15cf41eb8c1832693e4fa6e9"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Sulis membeli cabai.<br>\n  <br>\n  Kata dasar <i>membeli</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>membeli</i>", 0 ], [ true, "<i>beli</i> ", 1 ], [ false, "<i>dibeli</i> ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ad0b4464f8d838c3db6dc0f82"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Komah membakar stiker.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Ketika diubah ke bentuk pasif, <i>membakar</i> diubah menjadi <i>dibakar</i>. ", 0 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Stiker dibakar Komah</i>.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a20a24ed7842fcf3938fda3cf"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Xi meminjam gambaran.<br>\n  <br>\n  Kata dasar <i>meminjam</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>meminjam</i>", 0 ], [ true, "<i>pinjam</i> ", 1 ], [ false, "<i>dipinjam</i> ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aa1524326ac44708848582b47"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Kimberly meminjam pisau.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Kimberly melakukan kegiatan tersebut untuk orang lain.", 0 ], [ true, "pisau dipinjam oleh Kimberly. ", 1 ], [ false, "seseorang dipinjam-kan pisau oleh Kimberly. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a97934ce7ad8ed242966f423a"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Erna merusak kuas.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 1 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Kuas dirusak Erna</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kuncinya: kuasain konsep. Gimana caranya? Coba cek video-video konsep kita yak :)\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a14c24d7b9310eb6d24250aa4"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Sanda memandang perangko.<br>\n  <br>\n  Siapa yang memandang perangko?\n</p>\n\n",
+    "options" : [ [ false, "Seseorang selain Sanda.", 0 ], [ false, "Tidak dapat diketahui. ", 1 ], [ true, "Sanda. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kuncinya: kuasain konsep. Gimana caranya? Coba cek video-video konsep kita yak :)\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a934e4964be16da7ed8f6db53"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Keno membuang dispenser.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Keno membuangkan dispenser.", 0 ], [ false, "Keno dibuangkan dispenser. ", 1 ], [ true, "Dispenser dibuang Keno. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a8b6f49d9a95e0a23a4caa29e"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Lexa merusak timbangan.<br>\n  <br>\n  Siapa yang merusak timbangan?\n</p>\n\n",
+    "options" : [ [ false, "Tidak dapat diketahui. ", 0 ], [ true, "Lexa. ", 1 ], [ false, "Seseorang selain Lexa.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kuncinya: kuasain konsep. Gimana caranya? Coba cek video-video konsep kita yak :)\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a025444ac9a8d41c174cbd44c"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Mona menjual eskalator.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Mona dijualkan eskalator. ", 0 ], [ true, "Eskalator dijual Mona. ", 1 ], [ false, "Mona menjualkan eskalator.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab73643f58efc485a12307aaf"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Rakha meminjam spidol.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Spidol dipinjam Rakha</i>.", 1 ], [ false, "Ketika diubah ke bentuk pasif, <i>meminjam</i> diubah menjadi <i>dipinjam</i>. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a44084317b17f68b6102413a9"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Asri melempar gunting.<br>\n  <br>\n  Siapa yang melempar gunting?\n</p>\n\n",
+    "options" : [ [ false, "Tidak dapat diketahui. ", 0 ], [ false, "Seseorang selain Asri.", 1 ], [ true, "Asri. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a92424f28987a76fcbf54c930"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Lemos membakar vitamin.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Vitamin dibakar Lemos. ", 0 ], [ false, "Lemos dibakarkan vitamin. ", 1 ], [ false, "Lemos membakarkan vitamin.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5adaca427e9d31c048c51b634a"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Erna melihat bantal.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Bantal dilihat Erna</i>. ", 0 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ae5c84e4ab0cffa174b104200"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Milen membakar robot.<br>\n  <br>\n  Kata dasar <i>membakar</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>membakar</i>", 0 ], [ true, "<i>bakar</i> ", 1 ], [ false, "<i>dibakar</i> ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a032845c2b1cc5e64c3a25d49"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Hachi memandang bendera.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bendera dipandang Hachi. ", 0 ], [ false, "Hachi dipandangkan bendera. ", 1 ], [ false, "Hachi memandangkan bendera.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a534b4d479c9918cae9afb9ba"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Gilang melempar pita.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Pita dilempar Gilang. ", 0 ], [ false, "Gilang dilemparkan pita. ", 1 ], [ false, "Gilang melemparkan pita.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aefb6477c9c729be0dbb303e2"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Johan memandang rok.<br>\n  <br>\n  Siapa yang memandang rok?\n</p>\n\n",
+    "options" : [ [ false, "Seseorang selain Johan.", 0 ], [ true, "Johan. ", 1 ], [ false, "Tidak dapat diketahui. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5afc79468596382f0ea9082acc"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Ronald meminjam korek.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Korek dipinjam Ronald</i>. ", 0 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ad6c44494b76e0cb5673c6a15"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Barbie membakar sterofoam.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Barbie dibakarkan sterofoam</i>. ", 0 ], [ true, "<i>Sterofoam dibakar Barbie</i>. ", 1 ], [ false, "<i>Barbie membakarkan sterofoam</i>.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a1c4a4006af9d55cba9384180"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Ann membawa cermin.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Cermin dibawa Ann</i>. ", 0 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a797d44b1ba09c9a73f39a2a1"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Hilman melempar paku.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Paku dilempar Hilman. ", 0 ], [ false, "Hilman dilemparkan paku. ", 1 ], [ false, "Hilman melemparkan paku.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a9a394e32a1d7257088f182a8"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Sobari membuang mawar.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>membuang</i> diubah menjadi <i>dibuang</i>. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Mawar dibuang Sobari</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a8d6c42bab09b94a718ae5d53"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Dave melihat kaca.<br>\n  <br>\n  Kata dasar <i>melihat</i> adalah?\n</p>\n\n",
+    "options" : [ [ true, "<i>lihat</i> ", 0 ], [ false, "<i>dilihat</i> ", 1 ], [ false, "<i>melihat</i>", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ad5d04b39a3f9cc0b2cbf4ef0"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Ading merusak piano.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Piano dirusak Ading</i>. ", 0 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a829b437d91ef6c68802a9d68"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Noer membakar handuk.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Noer melakukan kegiatan tersebut untuk orang lain.", 0 ], [ false, "seseorang dibakar-kan handuk oleh Noer. ", 1 ], [ true, "handuk dibakar Noer. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab3e844558449ffe50720a35c"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Wanti melempar celana.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "seseorang dilempar-kan celana oleh Wanti.", 0 ], [ false, "Wanti melempar-kan celana untuk seseorang. ", 1 ], [ true, "celana dilempar Wanti. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a071e4ed7b984147db4da0f6a"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Azura merusak botol.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Botol dirusak Azura</i>.", 0 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Ketika diubah ke bentuk pasif, <i>merusak</i> diubah menjadi <i>dirusak</i>. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab0944400b752737d5e5e1698"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Isti memegang tato.<br>\n  <br>\n  Kata dasar <i>memegang</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>dipegang</i> ", 0 ], [ false, "<i>memegang</i>", 1 ], [ true, "<i>pegang</i> ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5af080410db5f627eafcb960ad"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Inem melempar pensil.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 1 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Pensil dilempar Inem</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a9f9b427f994698bedb7ddee8"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Helmi menjual bidak.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Bidak dijual Helmi</i>. ", 0 ], [ false, "<i>Helmi dijualkan bidak</i>. ", 1 ], [ false, "<i>Helmi menjualkan bidak</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5afcfb41ffbcd8652acd327066"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Anjas memandang guci.<br>\n  <br>\n  Kata dasar <i>memandang</i> adalah?\n</p>\n\n",
+    "options" : [ [ true, "<i>pandang</i> ", 0 ], [ false, "<i>memandang</i>", 1 ], [ false, "<i>dipandang</i> ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5acd74484b989962f0da4f4892"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Falcon memandang karpet.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Karpet dipandang Falcon</i>.", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>memandang</i> diubah menjadi <i>dipandang</i>. ", 1 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aadf54ac5a71ae4359f9711dd"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Gema meminjam plastik.<br>\n  <br>\n  Siapa yang meminjam plastik?\n</p>\n\n",
+    "options" : [ [ true, "Gema. ", 0 ], [ false, "Seseorang selain Gema.", 1 ], [ false, "Tidak dapat diketahui. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a8b0248ecbc7b05f539a6fe6a"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Fernando Jose menaruh pot.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Fernando Jose menaruhkan pot</i>.", 0 ], [ true, "<i>Pot ditaruh Fernando Jose</i>. ", 1 ], [ false, "<i>Fernando Jose ditaruhkan pot</i>. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a2a5149a59da7f66c5d1973da"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Bono melempar kalung.<br>\n  <br>\n  Siapa yang melempar kalung?\n</p>\n\n",
+    "options" : [ [ false, "Seseorang selain Bono.", 0 ], [ false, "Tidak dapat diketahui. ", 1 ], [ true, "Bono. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a34e148bbbf90c5355a92ae7f"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Sule meminjam sweter.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Sule dipinjamkan sweter</i>. ", 0 ], [ true, "<i>Sweter dipinjam Sule</i>. ", 1 ], [ false, "<i>Sule meminjamkan sweter</i>.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aa41647ba961a61c99d7fe66d"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Triani mengambil arloji.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut adalah kalimat pasif.", 0 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Arloji diambil Triani</i>. ", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a83064f9cb60d28fbdb3cdaf5"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Madali meminjam lem.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Madali meminjamkan lem.", 0 ], [ true, "Lem dipinjam Madali. ", 1 ], [ false, "Madali dipinjamkan lem. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a5a104f929015220f69b43e0a"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Johan memegang sweter.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>memegang</i> diubah menjadi <i>dipegang</i>. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Sweter dipegang Johan</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a8c5142bc9b7830d4dc3acddb"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Maureen mengambil pisau.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Pisau diambil Maureen</i>.", 1 ], [ false, "Ketika diubah ke bentuk pasif, <i>mengambil</i> diubah menjadi <i>diambil</i>. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a82704283934a817de70f4c32"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Susana mengambil kunci.<br>\n  <br>\n  Siapa yang mengambil kunci?\n</p>\n\n",
+    "options" : [ [ false, "Tidak dapat diketahui. ", 0 ], [ false, "Seseorang selain Susana.", 1 ], [ true, "Susana. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a74f94cd386fd2da84cf07a84"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Laluna membawa toples.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "toples dibawa oleh Laluna. ", 0 ], [ false, "Laluna melakukan kegiatan tersebut untuk orang lain.", 1 ], [ false, "Laluna membawa-kan toples untuk seseorang. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a4c2d44cf960bd5e059305f62"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Reza merusak parfum.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>merusak</i> diubah menjadi <i>dirusak</i>. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Parfum dirusak Reza</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kuncinya: kuasain konsep. Gimana caranya? Coba cek video-video konsep kita yak :)\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a3b8e4f56aa54c0135f25070d"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Agatha meminjam ukiran.<br>\n  <br>\n  Kata dasar <i>meminjam</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>meminjam</i>", 0 ], [ true, "<i>pinjam</i> ", 1 ], [ false, "<i>dipinjam</i> ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a029d406fa1db8aead225c14a"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Deidara membawa karpet.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Deidara membawa-kan karpet untuk seseorang. ", 0 ], [ true, "karpet dibawa oleh Deidara. ", 1 ], [ false, "seseorang dibawa-kan karpet oleh Deidara.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aa3f04c9093372c7e64cc8a2f"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Dustin melempar kursi.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Dustin melemparkan kursi</i>.", 0 ], [ false, "<i>Dustin dilemparkan kursi</i>. ", 1 ], [ true, "<i>Kursi dilempar Dustin</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Lebih jelasnya cek video-video konsep kita aja yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a61e3433ba1e7e38d9aeabef2"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Mikasa meminjam catur.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut adalah kalimat pasif.", 0 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Catur dipinjam Mikasa</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5af5464b47bd035bc63e781d2f"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Danie membuang gorden.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Gorden dibuang Danie</i>. ", 0 ], [ false, "<i>Danie dibuangkan gorden</i>. ", 1 ], [ false, "<i>Danie membuangkan gorden</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a54fe49fe9ee2b33cdadce659"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Yura menaruh guling.<br>\n  <br>\n  Kata dasar <i>menaruh</i> adalah?\n</p>\n\n",
+    "options" : [ [ true, "<i>taruh</i> ", 0 ], [ false, "<i>menaruh</i>", 1 ], [ false, "<i>ditaruh</i> ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a0a864776b2abf0cbfc35e6cd"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Gondes membeli muka.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Gondes dibelikan muka. ", 0 ], [ false, "Gondes membelikan muka.", 1 ], [ true, "Muka dibeli Gondes. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a67ab45e1b4002278ae217ecb"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Shirohige melempar toples.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Shirohige melakukan kegiatan tersebut untuk orang lain.", 0 ], [ false, "seseorang dilempar-kan toples oleh Shirohige. ", 1 ], [ true, "toples dilempar oleh Shirohige. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a65894e65a4780e4163681252"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Rimar menyentuh lampu.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Lampu disentuh Rimar</i>. ", 1 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a996c43e9840215a263fd1f19"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Wowor melempar penghapus.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Wowor melemparkan penghapus</i>.", 0 ], [ false, "<i>Wowor dilemparkan penghapus</i>. ", 1 ], [ true, "<i>Penghapus dilempar Wowor</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Lebih jelasnya cek video-video konsep kita aja yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ac1a344d497be8e22f79583cc"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Lupin membeli pensil.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Pensil dibeli Lupin</i>. ", 0 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a57aa4a7b88af4157be45835e"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Sobari melempar kabel listrik.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 1 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Kabel listrik dilempar Sobari</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a27a94a90acac939b675aa1b4"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Nandar melihat keran kebakaran.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Keran kebakaran dilihat Nandar</i>.", 0 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Ketika diubah ke bentuk pasif, <i>melihat</i> diubah menjadi <i>dilihat</i>. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a7c8d47c08c4a96ee6318cf56"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Jared mengambil mangkok.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Mangkok diambil Jared</i>. ", 0 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ad22948aeadc1311cedced265"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Sasa melempar cabai.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Sasa dilemparkan cabai</i>. ", 0 ], [ true, "<i>Cabai dilempar Sasa</i>. ", 1 ], [ false, "<i>Sasa melemparkan cabai</i>.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a3c8b49c6844034754faf2e6b"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Teh Adi merusak gambaran.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "seseorang dirusak-kan gambaran oleh Teh Adi.", 0 ], [ false, "Teh Adi merusak-kan gambaran untuk seseorang. ", 1 ], [ true, "gambaran dirusak oleh Teh Adi. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a0d284294a957cbb4d20b4e52"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Jared mengambil gerbang.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Gerbang diambil Jared</i>. ", 0 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Lebih jelasnya cek video-video konsep kita aja yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a7a1c48718785cc929cb09ba9"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Daus melempar kabel.<br>\n  <br>\n  Kata dasar <i>melempar</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>dilempar</i> ", 0 ], [ true, "<i>lempar</i> ", 1 ], [ false, "<i>melempar</i>", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aa1324ae785b4f3e21367d252"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Ali menaruh tisu.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Ketika diubah ke bentuk pasif, <i>menaruh</i> diubah menjadi <i>ditaruh</i>. ", 0 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Tisu ditaruh Ali</i>.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a36964820a384fb212b535194"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Wachid meminjam lukisan.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Wachid meminjamkan lukisan</i>.", 0 ], [ false, "<i>Wachid dipinjamkan lukisan</i>. ", 1 ], [ true, "<i>Lukisan dipinjam Wachid</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a774d47b5b270c499de16fe9a"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Amy melempar stoples.<br>\n  <br>\n  Siapa yang melempar stoples?\n</p>\n\n",
+    "options" : [ [ false, "Seseorang selain Amy.", 0 ], [ false, "Tidak dapat diketahui. ", 1 ], [ true, "Amy. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5af0d64b26a0e4a01b9e6aa9a5"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Nandang merusak lengkuas.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Lengkuas dirusak Nandang. ", 0 ], [ false, "Nandang merusakkan lengkuas.", 1 ], [ false, "Nandang dirusakkan lengkuas. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a30a04d38bd8c8ea080d0e371"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Citra meminjam lift.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Citra dipinjamkan lift</i>. ", 0 ], [ false, "<i>Citra meminjamkan lift</i>.", 1 ], [ true, "<i>Lift dipinjam Citra</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kuncinya: kuasain konsep. Gimana caranya? Coba cek video-video konsep kita yak :)\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a6a27412ead762ce94e1e06e2"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Opis mengambil meja.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Meja diambil Opis</i>. ", 0 ], [ false, "<i>Opis mengambilkan meja</i>.", 1 ], [ false, "<i>Opis diambilkan meja</i>. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Lebih jelasnya cek video-video konsep kita aja yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a710443bbb7c0d3d52d3c76a2"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Adelilah meminjam gawai.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Gawai dipinjam Adelilah</i>. ", 1 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5addea4d4ebf99c4813c0906a4"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Julie membawa koper.<br>\n  <br>\n  Kata dasar <i>membawa</i> adalah?\n</p>\n\n",
+    "options" : [ [ true, "<i>bawa</i> ", 0 ], [ false, "<i>membawa</i>", 1 ], [ false, "<i>dibawa</i> ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kuncinya: kuasain konsep. Gimana caranya? Coba cek video-video konsep kita yak :)\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ac4e94c45b3870adc8bd084bf"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Timon membuang asbak.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut adalah kalimat pasif.", 0 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Asbak dibuang Timon</i>. ", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a8dd04d4aa45e30202217f8b3"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Usep menyentuh kabel listrik.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Usep disentuhkan kabel listrik. ", 0 ], [ false, "Usep menyentuhkan kabel listrik.", 1 ], [ true, "Kabel listrik disentuh Usep. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a86094f13b802b6a5dc6e393e"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Subrata mengambil lipstik.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Lipstik diambil Subrata. ", 0 ], [ false, "Subrata mengambilkan lipstik.", 1 ], [ false, "Subrata diambilkan lipstik. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Lebih jelasnya cek video-video konsep kita aja yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a3a7a4c018af65c8709865ea7"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Sujoni menyentuh lift.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut adalah kalimat pasif.", 0 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Lift disentuh Sujoni</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a0e1d44aabf05aa32946420af"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Aang mengambil kamera.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Kamera diambil Aang</i>. ", 0 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Lebih jelasnya cek video-video konsep kita aja yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab92e49f99cfadb2de361968b"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Bunga memegang pulpen.<br>\n  <br>\n  Siapa yang memegang pulpen?\n</p>\n\n",
+    "options" : [ [ true, "Bunga. ", 0 ], [ false, "Seseorang selain Bunga.", 1 ], [ false, "Tidak dapat diketahui. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab49a48f59a9e0b83b15238d2"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Sumanto mengambil anyaman.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Sumanto mengambil-kan anyaman untuk seseorang. ", 0 ], [ false, "Sumanto melakukan kegiatan tersebut untuk orang lain.", 1 ], [ true, "anyaman diambil Sumanto. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a52c048a7b90ae0ba853fe536"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Egas meminjam pengeras suara.<br>\n  <br>\n  Kata dasar <i>meminjam</i> adalah?\n</p>\n\n",
+    "options" : [ [ true, "<i>pinjam</i> ", 0 ], [ false, "<i>dipinjam</i> ", 1 ], [ false, "<i>meminjam</i>", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a398f4b4bbbb2fddfcc1fcefe"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Shandy membuang tetikus.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Tetikus dibuang Shandy. ", 0 ], [ false, "Shandy dibuangkan tetikus. ", 1 ], [ false, "Shandy membuangkan tetikus.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a52bb4ab6beb1b56f830d93af"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Dylan mengambil rambut.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Rambut diambil Dylan. ", 0 ], [ false, "Dylan diambilkan rambut. ", 1 ], [ false, "Dylan mengambilkan rambut.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aa5744cb79e3fffc56a5f7235"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Anabelle memandang jahe.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut adalah kalimat pasif.", 0 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Jahe dipandang Anabelle</i>. ", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a582346ed813fbf12ec7eb0d8"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Fauna mengambil komik.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Komik diambil Fauna. ", 0 ], [ false, "Fauna mengambilkan komik.", 1 ], [ false, "Fauna diambilkan komik. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a757a47e691792ed1ae64ed45"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Belle melihat kain.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Ketika diubah ke bentuk pasif, <i>melihat</i> diubah menjadi <i>dilihat</i>. ", 0 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Kain dilihat Belle</i>.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a44e34eb597425151f7378669"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Butet membeli kursi.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "kursi dibeli Butet. ", 0 ], [ false, "seseorang dibeli-kan kursi oleh Butet.", 1 ], [ false, "Butet membeli-kan kursi untuk seseorang. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab50e4ccbacb6af9aec85f4cc"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Kumaila membuang bantal.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Bantal dibuang Kumaila</i>. ", 0 ], [ false, "<i>Kumaila dibuangkan bantal</i>. ", 1 ], [ false, "<i>Kumaila membuangkan bantal</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab46843aaaf24a8969c29c18c"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Oppie memandang karpet.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Karpet dipandang Oppie</i>. ", 0 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aa0674dc087ac7aa4982f0fc8"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Yoyok menaruh tablet.<br>\n  <br>\n  Kata dasar <i>menaruh</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>menaruh</i>", 0 ], [ true, "<i>taruh</i> ", 1 ], [ false, "<i>ditaruh</i> ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a4b284c21b98d4e071ae37f57"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Suneo merusak kaos.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Suneo merusakkan kaos</i>.", 0 ], [ false, "<i>Suneo dirusakkan kaos</i>. ", 1 ], [ true, "<i>Kaos dirusak Suneo</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a82124c3cbf00b7c6779ae103"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Iki membeli bunga.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Bunga dibeli Iki</i>. ", 1 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5afe454cecb5862dd757f99dac"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Aga memandang gaun.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Aga dipandangkan gaun. ", 0 ], [ true, "Gaun dipandang Aga. ", 1 ], [ false, "Aga memandangkan gaun.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ac0f647f9af4a5d2665d0d9ed"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Bambang menyentuh piring.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut adalah kalimat pasif.", 0 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Piring disentuh Bambang</i>. ", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ae7474b0a87e5a194548fa6b4"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Cahyo membawa pagar.<br>\n  <br>\n  Kata dasar <i>membawa</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>membawa</i>", 0 ], [ false, "<i>dibawa</i> ", 1 ], [ true, "<i>bawa</i> ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ad108490c9ec035eab3a7d1b7"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Andri membakar batu.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Andri dibakarkan batu. ", 0 ], [ true, "Batu dibakar Andri. ", 1 ], [ false, "Andri membakarkan batu.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a600d436992f681f2dd33ced4"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Andrew melempar sisir.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Andrew dilemparkan sisir</i>. ", 0 ], [ false, "<i>Andrew melemparkan sisir</i>.", 1 ], [ true, "<i>Sisir dilempar Andrew</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a2f604fd39a7689a9ce33dbd7"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Bono memandang selimut.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>memandang</i> diubah menjadi <i>dipandang</i>. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Selimut dipandang Bono</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a3cf6434c9033b048f6d32d3a"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Suryani meminjam vas.<br>\n  <br>\n  Kata dasar <i>meminjam</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>dipinjam</i> ", 0 ], [ true, "<i>pinjam</i> ", 1 ], [ false, "<i>meminjam</i>", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Lebih jelasnya cek video-video konsep kita aja yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a037d4de58bde53d62e3fac1b"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Dinda membeli kaos.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Kaos dibeli Dinda</i>. ", 1 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5adcae48889863d9837d1192cb"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Begeng melihat sterofoam.<br>\n  <br>\n  Kata dasar <i>melihat</i> adalah?\n</p>\n\n",
+    "options" : [ [ true, "<i>lihat</i> ", 0 ], [ false, "<i>melihat</i>", 1 ], [ false, "<i>dilihat</i> ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a41fe4db7ae02fd182d1af705"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Melida menyentuh kasur.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Kasur disentuh Melida</i>. ", 1 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aeb1b430aa6b09b23e7790820"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Arbella membeli meja.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Ketika diubah ke bentuk pasif, <i>membeli</i> diubah menjadi <i>dibeli</i>. ", 0 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Meja dibeli Arbella</i>.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aace747fc9c5b28b973e10464"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Rossi melihat kaca.<br>\n  <br>\n  Siapa yang melihat kaca?\n</p>\n\n",
+    "options" : [ [ true, "Rossi. ", 0 ], [ false, "Seseorang selain Rossi.", 1 ], [ false, "Tidak dapat diketahui. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Lebih jelasnya cek video-video konsep kita aja yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a5aad47949558e1490fde698b"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Susan menaruh kaligrafi.<br>\n  <br>\n  Siapa yang menaruh kaligrafi?\n</p>\n\n",
+    "options" : [ [ false, "Tidak dapat diketahui. ", 0 ], [ false, "Seseorang selain Susan.", 1 ], [ true, "Susan. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ad98b40cfbaf00cffe56f1d87"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Chosy membuang kunci.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Chosy dibuangkan kunci</i>. ", 0 ], [ false, "<i>Chosy membuangkan kunci</i>.", 1 ], [ true, "<i>Kunci dibuang Chosy</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a62ae404685b7231ef8e3ecb9"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Khongguan membeli cermin.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Ketika diubah ke bentuk pasif, <i>membeli</i> diubah menjadi <i>dibeli</i>. ", 0 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Cermin dibeli Khongguan</i>.", 1 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a469d4898b8f5c0065d45e561"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Sheila melihat keranjang.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "keranjang dilihat Sheila. ", 0 ], [ false, "seseorang dilihat-kan keranjang oleh Sheila. ", 1 ], [ false, "Sheila melakukan kegiatan tersebut untuk orang lain.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Lebih jelasnya cek video-video konsep kita aja yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ae2d144ffa175c3f39dce1658"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Alam membakar kalung.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Ketika diubah ke bentuk pasif, <i>membakar</i> diubah menjadi <i>dibakar</i>. ", 0 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Kalung dibakar Alam</i>.", 1 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aefa246d1b20d0ba841afaa94"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Aga memegang sabun.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Aga dipegangkan sabun. ", 0 ], [ true, "Sabun dipegang Aga. ", 1 ], [ false, "Aga memegangkan sabun.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a2f1345d4aac47e33e4ccc319"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Eddy merusak foto.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Eddy dirusakkan foto. ", 0 ], [ false, "Eddy merusakkan foto.", 1 ], [ true, "Foto dirusak Eddy. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5adffc44ef8b175c085e27ff86"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Xi melempar handuk.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Xi melemparkan handuk</i>.", 0 ], [ true, "<i>Handuk dilempar Xi</i>. ", 1 ], [ false, "<i>Xi dilemparkan handuk</i>. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a129045358c89d450d80c7661"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Depi memandang topi.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Depi dipandangkan topi</i>. ", 0 ], [ false, "<i>Depi memandangkan topi</i>.", 1 ], [ true, "<i>Topi dipandang Depi</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aeda245e0a2216ceb69c28228"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Gandhi merusak kelereng.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Gandhi merusak-kan kelereng untuk seseorang. ", 0 ], [ false, "seseorang dirusak-kan kelereng oleh Gandhi.", 1 ], [ true, "kelereng dirusak oleh Gandhi. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aa3194147931ce2a212f84f98"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Barbara memegang kompor.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Kompor dipegang Barbara</i>. ", 0 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aed814808a6154518abb97296"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Putri menyentuh bidak.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Putri disentuhkan bidak</i>. ", 0 ], [ true, "<i>Bidak disentuh Putri</i>. ", 1 ], [ false, "<i>Putri menyentuhkan bidak</i>.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a1ae44144a51a29743485cf48"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Mandra membawa mug.<br>\n  <br>\n  Siapa yang membawa mug?\n</p>\n\n",
+    "options" : [ [ false, "Tidak dapat diketahui. ", 0 ], [ true, "Mandra. ", 1 ], [ false, "Seseorang selain Mandra.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a80c94dcebf64df565ba10990"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Cezsa meminjam botol.<br>\n  <br>\n  Kata dasar <i>meminjam</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>dipinjam</i> ", 0 ], [ false, "<i>meminjam</i>", 1 ], [ true, "<i>pinjam</i> ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a7c7141b58ec8f1e2c0845767"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Loli memegang jaket.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>memegang</i> diubah menjadi <i>dipegang</i>. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Jaket dipegang Loli</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5af2674f34996f1738b0e8d3ce"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Helen meminjam celana.<br>\n  <br>\n  Kata dasar <i>meminjam</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>dipinjam</i> ", 0 ], [ true, "<i>pinjam</i> ", 1 ], [ false, "<i>meminjam</i>", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5acfeb4caca7675df23c5bc4ab"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Rayi memandang lukisan.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Lukisan dipandang Rayi</i>. ", 0 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ac05f4001ad93c6194769eccc"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Shinta meminjam rambut.<br>\n  <br>\n  Kata dasar <i>meminjam</i> adalah?\n</p>\n\n",
+    "options" : [ [ true, "<i>pinjam</i> ", 0 ], [ false, "<i>dipinjam</i> ", 1 ], [ false, "<i>meminjam</i>", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a7eb94231a6c25701a7c35f00"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Arbella menjual kaca.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "kaca dijual oleh Arbella. ", 0 ], [ false, "seseorang dijual-kan kaca oleh Arbella. ", 1 ], [ false, "Arbella melakukan kegiatan tersebut untuk orang lain.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a8c3d4017b4c311cd31ecf84b"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Ryuji melempar mobil.<br>\n  <br>\n  Kata dasar <i>melempar</i> adalah?\n</p>\n\n",
+    "options" : [ [ true, "<i>lempar</i> ", 0 ], [ false, "<i>melempar</i>", 1 ], [ false, "<i>dilempar</i> ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab9ff4ac1be2e7d036bfc87c2"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Timmy menjual proyektor.<br>\n  <br>\n  Siapa yang menjual proyektor?\n</p>\n\n",
+    "options" : [ [ false, "Tidak dapat diketahui. ", 0 ], [ false, "Seseorang selain Timmy.", 1 ], [ true, "Timmy. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a5842479fb126af67d47fa406"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Mega melempar obat.<br>\n  <br>\n  Kata dasar <i>melempar</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>dilempar</i> ", 0 ], [ true, "<i>lempar</i> ", 1 ], [ false, "<i>melempar</i>", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5af0eb4a1ab89e8d5fc1e3de88"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Tepi memandang jepitan.<br>\n  <br>\n  Siapa yang memandang jepitan?\n</p>\n\n",
+    "options" : [ [ false, "Tidak dapat diketahui. ", 0 ], [ true, "Tepi. ", 1 ], [ false, "Seseorang selain Tepi.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aa7fe4c8fb8a8678157e81050"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Budi mengambil plastik.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "plastik diambil oleh Budi. ", 0 ], [ false, "seseorang diambil-kan plastik oleh Budi. ", 1 ], [ false, "Budi melakukan kegiatan tersebut untuk orang lain.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5afa6e4cd1aa9fc658da322042"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Valak merusak galon.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Valak dirusakkan galon</i>. ", 0 ], [ false, "<i>Valak merusakkan galon</i>.", 1 ], [ true, "<i>Galon dirusak Valak</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a68b24ceaabf9c6c2ad07dab3"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Nico membeli lampu.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Lampu dibeli Nico</i>. ", 0 ], [ false, "<i>Nico membelikan lampu</i>.", 1 ], [ false, "<i>Nico dibelikan lampu</i>. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a0c9d4daf85b5a6575d3d32a9"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Nandar merusak keranjang.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Nandar merusakkan keranjang</i>.", 0 ], [ false, "<i>Nandar dirusakkan keranjang</i>. ", 1 ], [ true, "<i>Keranjang dirusak Nandar</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5afbfe4e559ebfba962e9cd47c"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Dewi meminjam timbangan.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>meminjam</i> diubah menjadi <i>dipinjam</i>. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Timbangan dipinjam Dewi</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a049647cda3559942ea3885af"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Gandhi menaruh pelampung.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut adalah kalimat pasif.", 0 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Pelampung ditaruh Gandhi</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aed25439a9b4122689d0a4e45"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Kirana membawa kunciran.<br>\n  <br>\n  Kata dasar <i>membawa</i> adalah?\n</p>\n\n",
+    "options" : [ [ true, "<i>bawa</i> ", 0 ], [ false, "<i>membawa</i>", 1 ], [ false, "<i>dibawa</i> ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ad83243aaace7a8debd17be11"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Suryani memandang kulkas.<br>\n  <br>\n  Kata dasar <i>memandang</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>dipandang</i> ", 0 ], [ true, "<i>pandang</i> ", 1 ], [ false, "<i>memandang</i>", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a1c3542938b8f3ad48a4feb1d"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Ryunosuke membawa karet.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Karet dibawa Ryunosuke</i>.", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>membawa</i> diubah menjadi <i>dibawa</i>. ", 1 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a454340d882a60bba4ba6dd4f"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Mia menyentuh blender.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Blender disentuh Mia</i>. ", 0 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a37564c29b2e0aa03167dc520"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Adibah melihat paku.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Paku dilihat Adibah</i>. ", 0 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5accdd48a5886423ab48ca265d"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Enoki menyentuh kacamata.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Kacamata disentuh Enoki</i>. ", 0 ], [ false, "<i>Enoki menyentuhkan kacamata</i>.", 1 ], [ false, "<i>Enoki disentuhkan kacamata</i>. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ae7e34381b1985b5d0cd9260a"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Nagita memandang komik.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut adalah kalimat pasif.", 0 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Komik dipandang Nagita</i>. ", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Lebih jelasnya cek video-video konsep kita aja yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab48b4301a41e94ecf55024b3"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Otta mengambil jahe.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Jahe diambil Otta</i>. ", 0 ], [ false, "<i>Otta mengambilkan jahe</i>.", 1 ], [ false, "<i>Otta diambilkan jahe</i>. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a21f148a88bfadfa55434d7d1"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Larry melihat gorden.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Larry melakukan kegiatan tersebut untuk orang lain.", 0 ], [ false, "Larry melihat-kan gorden untuk seseorang. ", 1 ], [ true, "gorden dilihat Larry. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab445464e85b597e4dadf75d4"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Leonardo melempar faksimile.<br>\n  <br>\n  Kata dasar <i>melempar</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>dilempar</i> ", 0 ], [ false, "<i>melempar</i>", 1 ], [ true, "<i>lempar</i> ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Lebih jelasnya cek video-video konsep kita aja yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a882b44aea27a91dc16e852e0"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Adelilah melempar pita.<br>\n  <br>\n  Kata dasar <i>melempar</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>dilempar</i> ", 0 ], [ true, "<i>lempar</i> ", 1 ], [ false, "<i>melempar</i>", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a718344a692e0d924cd21cbdf"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Amanda mengambil laptop.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut adalah kalimat pasif.", 0 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Laptop diambil Amanda</i>. ", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a23bd4fc4b16ba156e457be6e"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Tamara menyentuh pigura.<br>\n  <br>\n  Siapa yang menyentuh pigura?\n</p>\n\n",
+    "options" : [ [ true, "Tamara. ", 0 ], [ false, "Tidak dapat diketahui. ", 1 ], [ false, "Seseorang selain Tamara.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5abfb74a18b67dd72d1d888aa8"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Xian membawa rok.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Xian membawakan rok.", 0 ], [ false, "Xian dibawakan rok. ", 1 ], [ true, "Rok dibawa Xian. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab59f45b0bfafab9d9fa057bf"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Rere membawa celana jin.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Rere dibawakan celana jin. ", 0 ], [ true, "Celana jin dibawa Rere. ", 1 ], [ false, "Rere membawakan celana jin.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a919a4506ae0dc0d55e94c7e3"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Kartika meminjam celana jin.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut adalah kalimat pasif.", 0 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Celana jin dipinjam Kartika</i>. ", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5addb94db49325b5f765080c90"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Kokom melempar buku.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Buku dilempar Kokom</i>. ", 0 ], [ false, "<i>Kokom dilemparkan buku</i>. ", 1 ], [ false, "<i>Kokom melemparkan buku</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a70c2400891653acf9ec843eb"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Putra membuang kaca.<br>\n  <br>\n  Siapa yang membuang kaca?\n</p>\n\n",
+    "options" : [ [ false, "Seseorang selain Putra.", 0 ], [ false, "Tidak dapat diketahui. ", 1 ], [ true, "Putra. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ac2854c93b32710b52b076511"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Cici memandang topi.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Cici memandangkan topi</i>.", 0 ], [ true, "<i>Topi dipandang Cici</i>. ", 1 ], [ false, "<i>Cici dipandangkan topi</i>. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ac1e947ea83978c5beb335ee2"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Giga membuang gelang.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Giga dibuangkan gelang</i>. ", 0 ], [ false, "<i>Giga membuangkan gelang</i>.", 1 ], [ true, "<i>Gelang dibuang Giga</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a1e2c49f0aca55387d9655013"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Midoriya meminjam tongkat.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut adalah kalimat pasif.", 0 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Tongkat dipinjam Midoriya</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5acb0c41b4927313cf1cc8fdd1"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Teh Adi memegang lengkuas.<br>\n  <br>\n  Kata dasar <i>memegang</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>memegang</i>", 0 ], [ false, "<i>dipegang</i> ", 1 ], [ true, "<i>pegang</i> ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a2a71432d9f980208732fccf7"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Nurmala membuang pengeras suara.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Pengeras suara dibuang Nurmala. ", 0 ], [ false, "Nurmala dibuangkan pengeras suara. ", 1 ], [ false, "Nurmala membuangkan pengeras suara.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aeb0a44a1b66a144ee385d68b"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Ading membeli cincin.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Cincin dibeli Ading</i>. ", 0 ], [ false, "<i>Ading membelikan cincin</i>.", 1 ], [ false, "<i>Ading dibelikan cincin</i>. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a28c44d17b37e246d7321a99f"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Sayuti membuang korek.<br>\n  <br>\n  Siapa yang membuang korek?\n</p>\n\n",
+    "options" : [ [ true, "Sayuti. ", 0 ], [ false, "Tidak dapat diketahui. ", 1 ], [ false, "Seseorang selain Sayuti.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ac1dc435c8909cdad6767d6d4"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Jupi membakar kulkas.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Jupi dibakarkan kulkas</i>. ", 0 ], [ false, "<i>Jupi membakarkan kulkas</i>.", 1 ], [ true, "<i>Kulkas dibakar Jupi</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a18c745a891d8c58551c470f7"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Tomingse membakar payung.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Tomingse membakar-kan payung untuk seseorang. ", 0 ], [ true, "payung dibakar Tomingse. ", 1 ], [ false, "Tomingse melakukan kegiatan tersebut untuk orang lain.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a698e474691f099a9e7648d9a"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Marzuki membeli karung.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Marzuki membelikan karung</i>.", 0 ], [ false, "<i>Marzuki dibelikan karung</i>. ", 1 ], [ true, "<i>Karung dibeli Marzuki</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a36aa442a93d0826824655b68"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Dedeh membeli selimut.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Selimut dibeli Dedeh. ", 0 ], [ false, "Dedeh membelikan selimut.", 1 ], [ false, "Dedeh dibelikan selimut. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a1f7243e78d91d4cfe830b060"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Triani merusak baut.<br>\n  <br>\n  Kata dasar <i>merusak</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>dirusak</i> ", 0 ], [ false, "<i>merusak</i>", 1 ], [ true, "<i>rusak</i> ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Lebih jelasnya cek video-video konsep kita aja yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a9c2340ff836b4f3559a13d21"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Gisel merusak kuas.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Gisel merusakkan kuas</i>.", 0 ], [ true, "<i>Kuas dirusak Gisel</i>. ", 1 ], [ false, "<i>Gisel dirusakkan kuas</i>. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Lebih jelasnya cek video-video konsep kita aja yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a530f4f87bb2b0dd0b4a18c42"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Howl menjual kipas.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Howl dijualkan kipas. ", 0 ], [ true, "Kipas dijual Howl. ", 1 ], [ false, "Howl menjualkan kipas.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a893e49159bc60e51130a4535"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Mitchell memegang keset.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut adalah kalimat pasif.", 0 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Keset dipegang Mitchell</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kuncinya: kuasain konsep. Gimana caranya? Coba cek video-video konsep kita yak :)\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a3fa54be4bcfbb62df8454fef"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Lupin melempar plastik.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Plastik dilempar Lupin</i>. ", 0 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a55ba4f69bc6c6052381302c6"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Akri memegang sampo.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "seseorang dipegang-kan sampo oleh Akri.", 0 ], [ false, "Akri memegang-kan sampo untuk seseorang. ", 1 ], [ true, "sampo dipegang oleh Akri. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ae5c24e8eb6896423627f0d6b"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Dede membeli paku.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Dede membelikan paku.", 0 ], [ true, "Paku dibeli Dede. ", 1 ], [ false, "Dede dibelikan paku. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Lebih jelasnya cek video-video konsep kita aja yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ae7eb47dfaa728dd053bc192c"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Maemunah menyentuh lampu.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Maemunah disentuhkan lampu. ", 0 ], [ true, "Lampu disentuh Maemunah. ", 1 ], [ false, "Maemunah menyentuhkan lampu.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a3c9240c5a09add885d902a5f"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Kiting mengambil keranjang.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Ketika diubah ke bentuk pasif, <i>mengambil</i> diubah menjadi <i>diambil</i>. ", 0 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Keranjang diambil Kiting</i>.", 1 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aae46445fbe0927780a9d83bd"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Tomingse membeli cincin.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>membeli</i> diubah menjadi <i>dibeli</i>. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Cincin dibeli Tomingse</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a8914448e86fa5aa798b8d200"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Karyo membeli baskom.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 1 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Baskom dibeli Karyo</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5abdad402cbea93553c25d310a"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Ega meminjam pelampung.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "seseorang dipinjam-kan pelampung oleh Ega. ", 0 ], [ false, "Ega melakukan kegiatan tersebut untuk orang lain.", 1 ], [ true, "pelampung dipinjam Ega. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ad96f482bae6e66eb35a5b02b"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Lolo merusak wig.<br>\n  <br>\n  Siapa yang merusak wig?\n</p>\n\n",
+    "options" : [ [ true, "Lolo. ", 0 ], [ false, "Seseorang selain Lolo.", 1 ], [ false, "Tidak dapat diketahui. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a01e94012bf36e678b18e7631"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Asti meminjam arloji.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 1 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Arloji dipinjam Asti</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a665e466a8a6fb1c3490f0433"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Lole membeli bunga.<br>\n  <br>\n  Siapa yang membeli bunga?\n</p>\n\n",
+    "options" : [ [ false, "Tidak dapat diketahui. ", 0 ], [ true, "Lole. ", 1 ], [ false, "Seseorang selain Lole.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a53b7441da599a571322c8260"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Tiara meminjam bedak.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>meminjam</i> diubah menjadi <i>dipinjam</i>. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Bedak dipinjam Tiara</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a52df433885273dad3b75d4bc"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Nanas meminjam batu bata.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Batu bata dipinjam Nanas</i>. ", 0 ], [ false, "<i>Nanas meminjamkan batu bata</i>.", 1 ], [ false, "<i>Nanas dipinjamkan batu bata</i>. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5af590487db6d7265fe4629695"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Selena membakar lengkuas.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Lengkuas dibakar Selena</i>. ", 0 ], [ false, "<i>Selena dibakarkan lengkuas</i>. ", 1 ], [ false, "<i>Selena membakarkan lengkuas</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a094347a2a1eafddc79df1ae3"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Oyen merusak sandal.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Ketika diubah ke bentuk pasif, <i>merusak</i> diubah menjadi <i>dirusak</i>. ", 0 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Sandal dirusak Oyen</i>.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a5bba4c56bf2cfc9d1c3320a4"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Robert Doni meminjam cincin.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Cincin dipinjam Robert Doni. ", 0 ], [ false, "Robert Doni dipinjamkan cincin. ", 1 ], [ false, "Robert Doni meminjamkan cincin.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a7668452d9ad16330b4d6ce42"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Abel melempar kalkulator.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Abel dilemparkan kalkulator</i>. ", 0 ], [ true, "<i>Kalkulator dilempar Abel</i>. ", 1 ], [ false, "<i>Abel melemparkan kalkulator</i>.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a832543bdade8734892c71847"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Yeyen memegang jembatan.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Yeyen dipegangkan jembatan. ", 0 ], [ true, "Jembatan dipegang Yeyen. ", 1 ], [ false, "Yeyen memegangkan jembatan.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a833b40e0ba0fadd0477e57d7"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Sukirat memandang topi.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Sukirat memandangkan topi.", 0 ], [ true, "Topi dipandang Sukirat. ", 1 ], [ false, "Sukirat dipandangkan topi. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5abf8d4c32b56f4162b18409cd"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Cucu membuang dompet.<br>\n  <br>\n  Siapa yang membuang dompet?\n</p>\n\n",
+    "options" : [ [ true, "Cucu. ", 0 ], [ false, "Seseorang selain Cucu.", 1 ], [ false, "Tidak dapat diketahui. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ac0df4e3c996260420bc2ec91"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Dedeng melihat tirai.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Dedeng melihatkan tirai</i>.", 0 ], [ true, "<i>Tirai dilihat Dedeng</i>. ", 1 ], [ false, "<i>Dedeng dilihatkan tirai</i>. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a0c634d1794432374d3dd1294"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Kartika melempar kalung.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Kalung dilempar Kartika</i>. ", 0 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a3f9c47098524b916c1ee8ddf"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Leysa melihat laci.<br>\n  <br>\n  Kata dasar <i>melihat</i> adalah?\n</p>\n\n",
+    "options" : [ [ true, "<i>lihat</i> ", 0 ], [ false, "<i>melihat</i>", 1 ], [ false, "<i>dilihat</i> ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a781d4c0c81737f4b7ecc83ee"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Maxi meminjam pigura.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Maxi meminjamkan pigura</i>.", 0 ], [ true, "<i>Pigura dipinjam Maxi</i>. ", 1 ], [ false, "<i>Maxi dipinjamkan pigura</i>. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ae5754b338422c8a5a991e0b8"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Oden menyentuh pisau.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut adalah kalimat pasif.", 0 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Pisau disentuh Oden</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ae74f4395a6b23f4977f9f4a1"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Deden mengambil lilin.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Lilin diambil Deden. ", 0 ], [ false, "Deden mengambilkan lilin.", 1 ], [ false, "Deden diambilkan lilin. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a7e0c491f879fd54ef9a929dd"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Uta meminjam botol.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Botol dipinjam Uta</i>.", 1 ], [ false, "Ketika diubah ke bentuk pasif, <i>meminjam</i> diubah menjadi <i>dipinjam</i>. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aebf94cc9a9d07c66544b4d4e"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Soleh melempar pigura.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Soleh melemparkan pigura.", 0 ], [ false, "Soleh dilemparkan pigura. ", 1 ], [ true, "Pigura dilempar Soleh. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a02494d7d896a84dc2c94ed2f"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Lyodra memandang pengki.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "seseorang dipandang-kan pengki oleh Lyodra. ", 0 ], [ true, "pengki dipandang oleh Lyodra. ", 1 ], [ false, "Lyodra melakukan kegiatan tersebut untuk orang lain.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ad7d146c4a8467e904718784c"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Pandu melempar roda.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "roda dilempar oleh Pandu. ", 0 ], [ false, "Pandu melempar-kan roda untuk seseorang. ", 1 ], [ false, "seseorang dilempar-kan roda oleh Pandu.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kuncinya: kuasain konsep. Gimana caranya? Coba cek video-video konsep kita yak :)\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ad6fe49aabd4c98e617d76b30"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Devania merusak gaun.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Devania merusakkan gaun</i>.", 0 ], [ true, "<i>Gaun dirusak Devania</i>. ", 1 ], [ false, "<i>Devania dirusakkan gaun</i>. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ac60e49c3891ff44c5765dcda"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Marisa memandang garpu.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Garpu dipandang Marisa</i>. ", 0 ], [ false, "<i>Marisa dipandangkan garpu</i>. ", 1 ], [ false, "<i>Marisa memandangkan garpu</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a5bcd45bd90cd86337bc79a8b"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Woody memandang sofa.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Woody dipandangkan sofa. ", 0 ], [ true, "Sofa dipandang Woody. ", 1 ], [ false, "Woody memandangkan sofa.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aee4544da9b8f19a34ff345c7"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Hasyim menaruh televisi.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Televisi ditaruh Hasyim</i>. ", 0 ], [ false, "<i>Hasyim menaruhkan televisi</i>.", 1 ], [ false, "<i>Hasyim ditaruhkan televisi</i>. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a76aa4f2b9d8167e362179390"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Fernando Jose menaruh kapsul.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Fernando Jose ditaruhkan kapsul. ", 0 ], [ false, "Fernando Jose menaruhkan kapsul.", 1 ], [ true, "Kapsul ditaruh Fernando Jose. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a0d8f4a8482c076d37e7928c2"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Fauzan memegang permen.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Permen dipegang Fauzan</i>. ", 0 ], [ false, "<i>Fauzan memegangkan permen</i>.", 1 ], [ false, "<i>Fauzan dipegangkan permen</i>. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aad594ae3b1a60d707a320cab"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Ela membawa tikar.<br>\n  <br>\n  Kata dasar <i>membawa</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>membawa</i>", 0 ], [ false, "<i>dibawa</i> ", 1 ], [ true, "<i>bawa</i> ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a7bd94c44a040002975fbdb24"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Ronan membuang kapal.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Kapal dibuang Ronan</i>. ", 1 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ad96c48869f29fe1f0d56ce13"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Tyson membeli kembang.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "kembang dibeli oleh Tyson. ", 0 ], [ false, "Tyson membeli-kan kembang untuk seseorang. ", 1 ], [ false, "seseorang dibeli-kan kembang oleh Tyson.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5acbbc4a2baf10c5a0c24e0657"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Lola melihat sofa.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "sofa dilihat Lola. ", 0 ], [ false, "seseorang dilihat-kan sofa oleh Lola.", 1 ], [ false, "Lola melihat-kan sofa untuk seseorang. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a9e2e4f9685350b79d849300b"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Aminah membeli kendi.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Aminah membelikan kendi</i>.", 0 ], [ false, "<i>Aminah dibelikan kendi</i>. ", 1 ], [ true, "<i>Kendi dibeli Aminah</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5add7c49dea7a4279498e3309c"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Ryunosuke meminjam jas.<br>\n  <br>\n  Siapa yang meminjam jas?\n</p>\n\n",
+    "options" : [ [ false, "Seseorang selain Ryunosuke.", 0 ], [ true, "Ryunosuke. ", 1 ], [ false, "Tidak dapat diketahui. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a1c9b4850aa78a8f5b5872e30"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Farhan membawa novel.<br>\n  <br>\n  Kata dasar <i>membawa</i> adalah?\n</p>\n\n",
+    "options" : [ [ true, "<i>bawa</i> ", 0 ], [ false, "<i>membawa</i>", 1 ], [ false, "<i>dibawa</i> ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a05634125a0063ddbe76e398b"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Loli melempar bedak.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Loli melemparkan bedak</i>.", 0 ], [ false, "<i>Loli dilemparkan bedak</i>. ", 1 ], [ true, "<i>Bedak dilempar Loli</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a99144b2ca06ed308fc2fd6e6"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Cucu memandang robot.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Cucu dipandangkan robot</i>. ", 0 ], [ false, "<i>Cucu memandangkan robot</i>.", 1 ], [ true, "<i>Robot dipandang Cucu</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a96744bc7972369f43bea54ef"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Rimar merusak bidak.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Bidak dirusak Rimar</i>. ", 0 ], [ false, "<i>Rimar dirusakkan bidak</i>. ", 1 ], [ false, "<i>Rimar merusakkan bidak</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aefec4d8b8e59587b77225ce2"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Jupri memandang podium.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Podium dipandang Jupri</i>. ", 0 ], [ false, "<i>Jupri dipandangkan podium</i>. ", 1 ], [ false, "<i>Jupri memandangkan podium</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kalo masih bingung lanjut ke video-video konsep kita aja yaak.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a52c64859a51d7344dc6420c4"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Misaki mengambil majalah.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Majalah diambil Misaki</i>.", 0 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Ketika diubah ke bentuk pasif, <i>mengambil</i> diubah menjadi <i>diambil</i>. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a8b1c49a0bcb7dded15128935"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Bu Ita membeli mikrofon.<br>\n  <br>\n  Siapa yang membeli mikrofon?\n</p>\n\n",
+    "options" : [ [ false, "Tidak dapat diketahui. ", 0 ], [ false, "Seseorang selain Bu Ita.", 1 ], [ true, "Bu Ita. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Jangan lupa tonton video-video konsep kita biar ngertiii banget konsepnya boy!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a2f1948d2b6176b712ebec0d8"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Tara merusak panci.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 1 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Panci dirusak Tara</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aba8d40b9a377bb0ac75e5e3a"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Sapri mengambil karung.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Karung diambil Sapri</i>. ", 0 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab0e74de68e81af1ee99a2b08"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Kevin membakar celana.<br>\n  <br>\n  Siapa yang membakar celana?\n</p>\n\n",
+    "options" : [ [ true, "Kevin. ", 0 ], [ false, "Seseorang selain Kevin.", 1 ], [ false, "Tidak dapat diketahui. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a816842ec9604674bacc15d9f"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Michelle menaruh bantal.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Bantal ditaruh Michelle. ", 0 ], [ false, "Michelle ditaruhkan bantal. ", 1 ], [ false, "Michelle menaruhkan bantal.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ae27e4b55948b1add970991fe"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Anggi membeli gambaran.<br>\n  <br>\n  Kata dasar <i>membeli</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>dibeli</i> ", 0 ], [ false, "<i>membeli</i>", 1 ], [ true, "<i>beli</i> ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a8e4d483a99a362f43ec4f526"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Sayuti meminjam bedak.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Sayuti dipinjamkan bedak</i>. ", 0 ], [ false, "<i>Sayuti meminjamkan bedak</i>.", 1 ], [ true, "<i>Bedak dipinjam Sayuti</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a14e64c4589433dd5a02766c3"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Aidil membawa foto.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ true, "<i>Foto dibawa Aidil</i>. ", 0 ], [ false, "<i>Aidil dibawakan foto</i>. ", 1 ], [ false, "<i>Aidil membawakan foto</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kuncinya: kuasain konsep. Gimana caranya? Coba cek video-video konsep kita yak :)\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a2fb84b2e86e5dc7d9fcdcff5"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Leysa menjual jepitan.<br>\n  <br>\n  Kata dasar <i>menjual</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>menjual</i>", 0 ], [ true, "<i>jual</i> ", 1 ], [ false, "<i>dijual</i> ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a81f549df8652c864717c89a6"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Ulani melempar mobil.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Mobil dilempar Ulani</i>.", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>melempar</i> diubah menjadi <i>dilempar</i>. ", 1 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a6e6040e48fab1dc3a56610db"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Piglet menyentuh puisi.<br>\n  <br>\n  Kata dasar <i>menyentuh</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>disentuh</i> ", 0 ], [ true, "<i>sentuh</i> ", 1 ], [ false, "<i>menyentuh</i>", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a08954a90856696bef8a355f8"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Andri membawa eskalator.<br>\n  <br>\n  Kalimat tersebut bermakna sama dengan ...\n</p>\n\n",
+    "options" : [ [ false, "<i>Andri dibawakan eskalator</i>. ", 0 ], [ true, "<i>Eskalator dibawa Andri</i>. ", 1 ], [ false, "<i>Andri membawakan eskalator</i>.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab178475683c88e53577a9325"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Hazel meminjam mug.<br>\n  <br>\n  Siapa yang meminjam mug?\n</p>\n\n",
+    "options" : [ [ false, "Seseorang selain Hazel.", 0 ], [ false, "Tidak dapat diketahui. ", 1 ], [ true, "Hazel. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a77424a63938edf827cc5da6f"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Keno membuang kacamata.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Kacamata dibuang Keno</i>.", 0 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Ketika diubah ke bentuk pasif, <i>membuang</i> diubah menjadi <i>dibuang</i>. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kuncinya: kuasain konsep. Gimana caranya? Coba cek video-video konsep kita yak :)\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5af398484a9b340762063502d8"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Kasino menjual eskalator.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Ketika diubah ke bentuk pasif, <i>menjual</i> diubah menjadi <i>dijual</i>. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Eskalator dijual Kasino</i>.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5abb744485b6efe7639658591a"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Tu membawa anyaman.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Tu melakukan kegiatan tersebut untuk orang lain.", 0 ], [ true, "anyaman dibawa oleh Tu. ", 1 ], [ false, "seseorang dibawa-kan anyaman oleh Tu. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ab6e84eaba2d37b6d1dddfe92"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Pumba melempar piring.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Piring dilempar Pumba. ", 0 ], [ false, "Pumba melemparkan piring.", 1 ], [ false, "Pumba dilemparkan piring. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a6abe46b1a618a60b70600fbf"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Emma memegang obeng.<br>\n  <br>\n  Siapa yang memegang obeng?\n</p>\n\n",
+    "options" : [ [ false, "Seseorang selain Emma.", 0 ], [ true, "Emma. ", 1 ], [ false, "Tidak dapat diketahui. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalau belum kebayang cek aja video-video konsep kita yaa~\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a435c444fae78c09f3a153823"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Mitchell mengambil pensil.<br>\n  <br>\n  Siapa yang mengambil pensil?\n</p>\n\n",
+    "options" : [ [ true, "Mitchell. ", 0 ], [ false, "Tidak dapat diketahui. ", 1 ], [ false, "Seseorang selain Mitchell.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5aa6014c1882c654d0c59a716e"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Chelsi meminjam sandal.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut adalah kalimat pasif.", 0 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Sandal dipinjam Chelsi</i>. ", 1 ], [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a5eaa40a1a87ebd5566a50f52"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Gandhi membakar kembang.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Kembang dibakar Gandhi</i>.", 0 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Ketika diubah ke bentuk pasif, <i>membakar</i> diubah menjadi <i>dibakar</i>. ", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Kalau kurang jelas, cek video-video konsep kita okaay.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5acbc745f7a99e423f34c77ff5"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Yuni melempar kompor.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "kompor dilempar Yuni. ", 0 ], [ false, "Yuni melakukan kegiatan tersebut untuk orang lain.", 1 ], [ false, "Yuni melempar-kan kompor untuk seseorang. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Kuncinya: kuasain konsep. Gimana caranya? Coba cek video-video konsep kita yak :)\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5ad7a04d57bee2ac3d0dc64fe3"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Ann membuang selotip.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ true, "selotip dibuang oleh Ann. ", 0 ], [ false, "Ann melakukan kegiatan tersebut untuk orang lain.", 1 ], [ false, "Ann membuang-kan selotip untuk seseorang. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Pusing ga tuh? Nah, cek video-video konsep kita deh kalau gitu.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a8b194d3a9d20131d27d2167b"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Ellen merusak piring.<br>\n  <br>\n  Kata dasar <i>merusak</i> adalah?\n</p>\n\n",
+    "options" : [ [ false, "<i>dirusak</i> ", 0 ], [ false, "<i>merusak</i>", 1 ], [ true, "<i>rusak</i> ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Untuk lebih jelasnya, cek video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a91fd485eb3add34e61b1b191"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Suherman mengambil sabun.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "seseorang diambil-kan sabun oleh Suherman. ", 0 ], [ false, "Suherman melakukan kegiatan tersebut untuk orang lain.", 1 ], [ true, "sabun diambil Suherman. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a440745c483a9b28e4cd27222"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Bella memegang kasur.<br>\n  <br>\n  Manakah pernyataan yang benar berdasarkan kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 0 ], [ false, "Kalimat tersebut adalah kalimat pasif.", 1 ], [ true, "Bentuk pasif dari kalimat tersebut adalah <i>Kasur dipegang Bella</i>. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a08af4f28b3b42c87fc43efc2"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Geza membakar kapal.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Kapal dibakar Geza. ", 0 ], [ false, "Geza membakarkan kapal.", 1 ], [ false, "Geza dibakarkan kapal. ", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Ribet yak? Ya udah yuk, ke video-video konsep kita aja.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a8a9f4b91939a565444e36fd7"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Dian mengambil lukisan.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Ketika diubah ke bentuk pasif, <i>mengambil</i> diubah menjadi <i>diambil</i>. ", 0 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 1 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Lukisan diambil Dian</i>.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a366a463cbf66c210ab8b96f8"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Arjuna membeli spidol.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ false, "Arjuna dibelikan spidol. ", 0 ], [ true, "Spidol dibeli Arjuna. ", 1 ], [ false, "Arjuna membelikan spidol.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Udah cukup jelas? Kalau kurang paham, boleh kak video-video konsep kita silakan.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a00da44f4896d3713c1fe0ec3"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Andy mengambil meteran.<br>\n  <br>\n  Makna kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Andy mengambil-kan meteran untuk seseorang. ", 0 ], [ true, "meteran diambil Andy. ", 1 ], [ false, "Andy melakukan kegiatan tersebut untuk orang lain.", 2 ] ],
+    "jawaban" : "B"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a98dd492daa34c3ba8f192072"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Hugh mengambil kue.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Ketika diubah ke bentuk pasif, <i>mengambil</i> diubah menjadi <i>diambil</i>. ", 0 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Kue diambil Hugh</i>.", 1 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Bingung nggak? Kalau iya, coba klik video-video konsep kita yaa.\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a759b4a82ad87c2a73a5419b1"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Jennifer memandang celana jin.<br>\n  <br>\n  Bagaimanakah bentuk pasif kalimat tersebut?\n</p>\n\n",
+    "options" : [ [ true, "Celana jin dipandang Jennifer. ", 0 ], [ false, "Jennifer dipandangkan celana jin. ", 1 ], [ false, "Jennifer memandangkan celana jin.", 2 ] ],
+    "jawaban" : "A"
+  },
+  "bahas" : "\n\n<p>\n  Gimana? Kebayang ga? Kalo masih bingung, cek video-video konsep kita yak!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5a84b649eeba05ffc226666dc0"
+}, {
+  "soal" : {
+    "soal-text" : "\n<p>\n  Marzuki merusak kunci.<br>\n  <br>\n  Pernyataan yang <b>tidak tepat</b> sesuai kalimat tersebut adalah ...\n</p>\n\n",
+    "options" : [ [ false, "Ketika diubah ke bentuk pasif, <i>merusak</i> diubah menjadi <i>dirusak</i>. ", 0 ], [ false, "Bentuk pasif dari kalimat tersebut adalah <i>Kunci dirusak Marzuki</i>.", 1 ], [ true, "Kalimat tersebut tidak dapat diubah ke bentuk pasif. ", 2 ] ],
+    "jawaban" : "C"
+  },
+  "bahas" : "\n\n<p>\n  Kalo ngerasa masih ribet, langsung cek video-video konsep kita aja ya!\n</p>",
+  "images" : [ ],
+  "template-id" : "ffdaa160c45311eb8d7a708873dc05b9",
+  "topic" : "verbal_logic",
+  "problem-id" : "03318c5afc3247ff93bb62bfa8d18abd"
+} ]
